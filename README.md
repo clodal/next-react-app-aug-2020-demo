@@ -1,11 +1,12 @@
 # Next React App Demo
 
-This is a demo of a dummy webapp built on top of the following technologies:
+This is a demo of a dummy web-app built on top of the following technologies:
 
-1. React
+1. React (Hooks, Portals, etc.)
 2. NextJS
-3. Material-UI
-4. React-Hook-Form + Yup
+3. Typescript
+4. Material-UI
+5. React-Hook-Form + Yup
 
 ## Installation
 
